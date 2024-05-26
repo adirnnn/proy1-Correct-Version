@@ -1,3 +1,5 @@
+Esta es la versión correcta de nuestra fase 2 del proyecto 1 de Algoritmos y Estructuras de Datos. A la hora de realizar el interprete de LISP realizamos dos versiones simultaneamente ya que no teníamos muy claro el concepto. La versión subida en Canvas fue subida incorrectamente al confundirnos en cual versión debía de ser empaquetada con Maven y subida. Esta versión es la correcta finalizada el 22 de Marzo de 2024.
+
 El programa puede evaluar expresiones Lisp proporcionadas por el usuario mediante el archivo de lisp.txt
 
 Operaciones Aritméticas: Permite realizar operaciones básicas como suma, resta, multiplicación y división entre números.
