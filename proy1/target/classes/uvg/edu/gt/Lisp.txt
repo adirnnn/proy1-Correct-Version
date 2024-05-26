@@ -1,0 +1,32 @@
+(+ 10 5)
+(- 10 5)
+(* 10 2)
+(/ 10 2)
+
+(setq a 20)
+(setq b 8)
+(setq c 4)
+
+(+ a b)
+(- a b)
+(* a c)
+(/ a c)
+
+(' prueba con quuote)
+(quote 7)
+
+(> 20 8)
+(equals c 4)
+(Atom y)
+(List (4 5 6))
+(List (x))
+(List (4 5 6))
+
+(Cond equals a 20 b 8)(* 8 4) (/ 20 4) (- 8 4)
+(print a)
+
+(defun name x,y (+ x y))
+(name 5 7)
+
+(defun factorial x (Cond (equals x 1) (print 1) (* x factorial (- x 1))))
+(factorial 8)
